@@ -16,7 +16,7 @@ STEP-4: Else subtract the key from the plain text.
 STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
-'''
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -51,7 +51,7 @@ int main(void)
     printf("Cipher text: %s\n", text);
     return 0;
 }
-'''
+```
 ## OUTPUT:
 
 ## RESULT :
